@@ -13,5 +13,4 @@ if block_return_values.include?(false)
 else
   TRUE
 end
-
 end
